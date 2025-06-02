@@ -1,0 +1,75 @@
+# Robots.txt for ACRA - Alpet Car Rental Albania
+# https://alpet.rentals
+
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Block crawling of admin, API, and unnecessary files
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/
+Disallow: /.next/
+Disallow: /manifest.json
+Disallow: /#*
+
+# Allow access to important static assets
+Allow: /favicon.ico
+Allow: /apple-icon.png
+Allow: /web-app-manifest-*.png
+Allow: /*.css
+Allow: /*.js
+
+# Sitemap location
+Sitemap: https://alpet.rentals/sitemap.xml
+
+# Crawl delay for polite crawling (optional)
+Crawl-delay: 1
+
+# Allow specific important pages and Next.js static files
+Allow: /sitemap.xml
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.webp
+Allow: /*.svg
+Allow: /*.ico
+
+# Block access to sensitive areas and build files
+Disallow: /*.log
+Disallow: /package.json
+Disallow: /package-lock.json
+Disallow: /.env*
+
+# Allow all major search engines explicitly
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+# Block problematic bots
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: / 
