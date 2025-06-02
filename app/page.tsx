@@ -238,12 +238,12 @@ export default function HomePage() {
           <div className="flex items-center space-x-2">
             <Image
               src="https://res.cloudinary.com/donsql8ze/image/upload/v1748276974/Logo_xtj5cr.svg"
-              alt="ACRA Logo"
+              alt="Car Rental Platform Demo Logo"
               width={32}
               height={32}
               className="h-8 w-8"
             />
-            <span className="text-xl font-bold text-gray-900">ACRA</span>
+            <span className="text-xl font-bold text-gray-900">Car Rental Platform</span>
           </div>
           <div className="hidden md:flex items-center space-x-8">
             <Link href="#home" className="text-gray-600 hover:text-blue-600 transition-colors">
@@ -556,7 +556,7 @@ export default function HomePage() {
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="ACRA Location"
+                  title="Car Rental Platform Demo Location"
                 ></iframe>
               </div>
             </div>
@@ -642,7 +642,7 @@ export default function HomePage() {
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="ACRA Location"
+                  title="Car Rental Platform Demo Location"
                 ></iframe>
               </div>
             </div>
@@ -658,12 +658,12 @@ export default function HomePage() {
               <div className="flex items-center space-x-2">
                 <Image
                   src="https://res.cloudinary.com/donsql8ze/image/upload/v1748276974/Logo_xtj5cr.svg"
-                  alt="ACRA Logo"
+                  alt="Car Rental Platform Demo Logo"
                   width={32}
                   height={32}
                   className="h-8 w-8 brightness-0 invert"
                 />
-                <span className="text-xl font-bold">ACRA</span>
+                <span className="text-xl font-bold">Car Rental Platform</span>
               </div>
               <p className="text-gray-400">{t("footer.description")}</p>
             </div>

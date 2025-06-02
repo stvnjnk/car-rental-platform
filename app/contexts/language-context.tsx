@@ -38,9 +38,9 @@ const translations = {
     "hero.contact": "Contact Us",
 
     // Why Us Section
-    "whyUs.title": "Why Choose ACRA?",
+    "whyUs.title": "Why Choose Our Car Rental Platform?",
     "whyUs.subtitle":
-      "We're committed to providing exceptional service and unbeatable value for your car rental needs in Albania.",
+      "We're committed to providing exceptional service and unbeatable value for your car rental needs.",
     "whyUs.pricing.title": "Competitive Pricing",
     "whyUs.pricing.description":
       "Best rates in Albania with transparent pricing and no hidden fees. Quality service at affordable prices.",
@@ -98,13 +98,13 @@ const translations = {
     // Testimonials Section
     "testimonials.title": "What Our Customers Say",
     "testimonials.subtitle":
-      "Don't just take our word for it. Here's what our satisfied customers have to say about their experience with ACRA.",
+      "Don't just take our word for it. Here's what our satisfied customers have to say about their experience with our platform.",
     "testimonials.review1":
       "Excellent service! The car was clean, well-maintained, and perfect for our Albanian adventure. The staff was incredibly helpful and professional.",
     "testimonials.customer1.name": "Maria Schmidt",
     "testimonials.customer1.title": "Tourist from Germany",
     "testimonials.review2":
-              "Great prices and reliable cars. We rented a Dacia Duster for our mountain trip and it performed excellently. Will definitely use ACRA again!",
+              "Great prices and reliable cars. We rented a Dacia Duster for our mountain trip and it performed excellently. Will definitely use this service again!",
     "testimonials.customer2.name": "James Wilson",
     "testimonials.customer2.title": "Business Traveler",
     "testimonials.review3":
@@ -143,7 +143,7 @@ const translations = {
     "footer.weeklyRentals": "Weekly Rentals",
     "footer.monthlyRentals": "Monthly Rentals",
     "footer.airportPickup": "Airport Pickup",
-    "footer.copyright": "Alpet Car Rental Albania. All rights reserved.",
+    "footer.copyright": "Car Rental Platform Demo. All rights reserved.",
 
     // WhatsApp Widget
     "whatsapp.chatWithUs": "Chat with us",
@@ -172,9 +172,9 @@ const translations = {
     "hero.contact": "Na Kontaktoni",
 
     // Why Us Section
-    "whyUs.title": "Pse të Zgjidhni Alpet Car Rental?",
+    "whyUs.title": "Pse të Zgjidhni Platformën Tonë të Qirasë?",
     "whyUs.subtitle":
-      "Jemi të përkushtuar për të ofruar shërbim të jashtëzakonshëm dhe vlerë të pamposhtur për nevojat tuaja të qirasë së makinave në Shqipëri.",
+      "Jemi të përkushtuar për të ofruar shërbim të jashtëzakonshëm dhe vlerë të pamposhtur për nevojat tuaja të qirasë së makinave.",
     "whyUs.pricing.title": "Çmime Konkurruese",
     "whyUs.pricing.description":
       "Tarifat më të mira në Shqipëri me çmime transparente dhe pa tarifa të fshehura. Shërbim cilësor me çmime të përballueshme.",
@@ -232,13 +232,11 @@ const translations = {
     // Testimonials Section
     "testimonials.title": "Çfarë Thonë Klientët Tanë",
     "testimonials.subtitle":
-      "Mos na besoni vetëm neve. Ja çfarë kanë për të thënë klientët tanë të kënaqur për përvojën e tyre me Alpet Car Rental.",
+      "Mos na besoni vetëm neve. Ja çfarë kanë për të thënë klientët tanë të kënaqur për përvojën e tyre me platformën tonë.",
     "testimonials.review1":
       "Shërbim i shkëlqyer! Makina ishte e pastër, e mirëmbajtur dhe e përsosur për aventurën tonë shqiptare. Stafi ishte jashtëzakonisht i dobishëm dhe profesional.",
-    "testimonials.customer1.name": "Maria Schmidt",
-    "testimonials.customer1.title": "Turiste nga Gjermania",
     "testimonials.review2":
-      "Çmime të mira dhe makina të besueshme. Morëm me qira një Dacia Duster për udhëtimin tonë në mal dhe performoi shkëlqyeshëm. Definitivisht do të përdorim Alpet përsëri!",
+      "Çmime të mira dhe makina të besueshme. Morëm me qira një Dacia Duster për udhëtimin tonë në mal dhe performoi shkëlqyeshëm. Definitivisht do të përdorim këtë shërbim përsëri!",
     "testimonials.customer2.name": "James Wilson",
     "testimonials.customer2.title": "Udhëtar Biznesi",
     "testimonials.review3":
@@ -277,7 +275,7 @@ const translations = {
     "footer.weeklyRentals": "Qira Javore",
     "footer.monthlyRentals": "Qira Mujore",
     "footer.airportPickup": "Marrje nga Aeroporti",
-    "footer.copyright": "Alpet Car Rental Albania. Të gjitha të drejtat e rezervuara.",
+    "footer.copyright": "Car Rental Platform Demo. Të gjitha të drejtat e rezervuara.",
 
     // WhatsApp Widget
     "whatsapp.chatWithUs": "Bisedoni me ne",
