@@ -2,11 +2,14 @@
 
 **Modern car rental platform built with Next.js, TypeScript, and Tailwind CSS, showcasing responsive design, internationalization, and performance optimization for modern web development.**
 
+![Landing Page](.github/images/landing%20page.png)
+
 ---
 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
@@ -27,18 +30,28 @@ The platform includes a complete car fleet management system, interactive modals
 
 ---
 
+## Screenshots
+
+### Landing Page
+![Landing Page](.github/images/landing%20page.png)
+
+### Fleet Management
+![Fleet Page](.github/images/fleet%20page.png)
+
+---
+
 ## Features
 
-- **🚗 Interactive Car Fleet:** Browse detailed car information with specifications, images, and pricing
-- **🌍 Bilingual Support:** Complete internationalization with English and Albanian languages
-- **📱 Responsive Design:** Mobile-first approach with seamless experience across all devices
-- **⚡ Performance Optimized:** Image optimization, lazy loading, and efficient bundle management
-- **🎨 Modern UI/UX:** Clean, professional design using shadcn/ui components
-- **📝 Contact Forms:** Interactive contact forms with validation and submission handling
-- **💬 WhatsApp Integration:** Direct customer communication through WhatsApp widget
-- **🔍 SEO Optimized:** Comprehensive meta tags, structured data, and sitemap generation
-- **🎯 TypeScript:** Full type safety throughout the application
-- **🌟 Accessibility:** WCAG compliant with proper ARIA labels and keyboard navigation
+- **Interactive Car Fleet:** Browse detailed car information with specifications, images, and pricing
+- **Bilingual Support:** Complete internationalization with English and Albanian languages
+- **Responsive Design:** Mobile-first approach with seamless experience across all devices
+- **Performance Optimized:** Image optimization, lazy loading, and efficient bundle management
+- **Modern UI/UX:** Clean, professional design using shadcn/ui components
+- **Contact Forms:** Interactive contact forms with validation and submission handling
+- **WhatsApp Integration:** Direct customer communication through WhatsApp widget
+- **SEO Optimized:** Comprehensive meta tags, structured data, and sitemap generation
+- **TypeScript:** Full type safety throughout the application
+- **Accessibility:** WCAG compliant with proper ARIA labels and keyboard navigation
 
 ---
 
@@ -190,4 +203,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Built with ❤️ by [Stiven Janku](https://github.com/stvnjnk)**
+**Built by [Stiven Janku](https://github.com/stvnjnk)**
